@@ -1,0 +1,329 @@
+
+@media screen and (max-width: 1070px){
+    .sec_image{
+        width: 619px;
+    }
+    .sec3_info_h2 {
+        font-size: 25px;
+    }
+    .section4 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec4_1 {
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width: 1024px){
+    .big_logo {
+        padding-top: 125px;
+        padding-bottom: 30px;
+    }
+}
+@media screen and (max-width: 986px){
+    .sec_logo_image {
+        margin-top: 20px;
+    }
+    .sec2 {
+        justify-content: space-evenly;
+    }
+    .sec2_p {
+        padding-left: 15px;
+    }
+    .icons_content {
+        padding-left: 15px;
+    }  
+    .section3 {
+        flex-direction: column;
+    }
+    .sec3_image {
+        display: none;
+    }
+    .sec3_info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .sec5_content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec5_2 {
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 986px){
+    .footer_p {
+        margin-left: auto;
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 936px){
+    .section11 {
+        flex-direction: column-reverse;
+    }
+    .sec_image{
+        width: 100%;
+    }
+    .sec_info {
+        max-width: 100%;
+        padding-left: 0;
+    }
+    .sec_info_content {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec_button {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .button_in_sec {
+        margin-right: 0;
+    }
+    .pseudo_and_p {
+        width: 100%;
+        margin-left: 0;
+    }
+
+
+
+    .margin_bottom_85px{
+        margin-bottom: 40px;
+    }
+    .margin_bottom_140px{
+        margin-bottom: 60px;
+    }
+    .margin_bottom_50px{
+        margin-bottom: 50px;
+    }
+    .margin_bottom_100px{
+        margin-bottom: 50px;
+    }
+    .margin_bottom_120px{
+        margin-bottom: 60px;
+    }
+
+}
+@media screen and (max-width: 800px){
+    .big_logo {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .menu_content{
+        flex-wrap: wrap;
+    }
+    .logo_in_menu{
+        order: 1;
+        margin-bottom: 15px;
+    }
+    .button_in_nav {
+        order: 2;
+        margin-bottom: 15px;
+    }
+    .div_menu{
+        order: 3;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 681px){
+    .menu_in_footer {
+        max-width: 160px;
+        flex-direction: column;
+        margin-right: 0;
+        margin-left: auto;
+    }
+    footer{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: 0 auto;
+    }
+    .footer_menu{
+        max-width: 150px;
+    }
+    
+    .footer_icon_content{
+        display: none;
+    }
+    .footer_icon_content_under_logo{
+        display: block;
+    }
+    .footer_logo_and_nav {
+        align-items: unset;
+        margin: 0 70px;
+    }
+    .menu_in_footer li{
+        margin-bottom: 15px;
+        text-align: right;
+    }
+    .footer_p {
+        width: 100%;
+        text-align: right;
+    }
+    .footer_pseudo{
+        display: block;
+    }
+    .sec4_1 {
+        margin-bottom: 10px;
+    }
+
+
+    .margin_bottom_85px{
+        margin-bottom: 20px;
+    }
+    .margin_bottom_140px{
+        margin-bottom: 20px;
+    }
+    .margin_bottom_50px{
+        margin-bottom: 10px;
+    }
+    .margin_bottom_100px{
+        margin-bottom: 10px;
+    }
+    .margin_bottom_120px{
+        margin-bottom: 20px;
+    }
+    
+}
+@media screen and (max-width: 680px){
+    .sec6 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .login {
+        margin-bottom: 10px;
+    }
+    
+    
+}
+@media screen and (max-width: 600px){
+    .in_menu{
+        font-size: 12px;
+    }
+    .footer_logo_and_nav {
+        margin: 0 30px;
+    }
+}
+@media screen and (max-width: 533px){
+    .big_logo {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .button_dropup {
+        display: block;
+        order: 3;
+    }
+    .div_menu {
+        display: none;
+    }
+    .logo_in_menu{
+        margin-bottom: 0;
+    }
+    .button_in_nav {
+        margin-bottom: 0;
+    }
+    .menu_nav {
+        min-height: 80px;
+    }
+    .sec_info_content{
+        display: none;
+    }
+    .sec_button {
+        min-height: 70px;
+    }
+    .button_in_sec {
+        border: 0;
+    }
+    .button_in_sec_a{
+        font-size: 16px;
+    }
+    .section3 {
+        display: none;
+    }
+    .sec7_sec5_1_2_target {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .margin_left_right_50_px{
+        margin: 0 15px;
+    }
+    .print_icon {
+        margin-left: 255px;
+    }
+}
+@media screen and (max-width: 400px){
+    .footer_icon_content_under_logo {
+        margin-right: 0;
+    }
+    .footer_logo_image {
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 360px){
+    
+    .image_logo {
+        display: none;
+    }
+    .button_in_nav {
+        max-width: 100px;
+        border: none;
+    }
+    .sec2 {
+        padding: 0;
+    }
+    .section4 {
+        display: none;
+    }
+    .section6{
+        display: none;
+    }
+    .section7{
+        display: none;
+    }
+    .shadow{
+        box-shadow: none;
+    }
+    .sec5_1{
+        display: none;
+    }
+    .sec5_2_2{
+        display: none;
+    }
+    .sec5_2_3{
+        display: none;
+    }
+    .sec5_3_2{
+        display: none;
+    }
+
+    .margin_bottom_50px {
+        margin-top: 2px;
+    }
+
+    .sec4_1 {
+        margin-bottom: 10px;
+    }
+
+
+    .margin_bottom_85px{
+        margin-bottom: 0;
+    }
+    .margin_bottom_140px{
+        margin-bottom: 20px;
+    }
+    .margin_bottom_50px{
+        margin-bottom: 0;
+    }
+    .margin_bottom_100px{
+        margin-bottom: 10px;
+    }
+    .margin_bottom_120px{
+        margin-bottom: 20px;
+    }
+}

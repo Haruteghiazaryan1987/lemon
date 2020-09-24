@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Josefin Sans";
+    src: url('Josefin Sans.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url('Josefin Sans.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url('Josefin Sans.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url('PlayfairDisplay-Regular.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url('PlayfairDisplay-Regular.otf');
+    font-weight: black;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url('PlayfairDisplay-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
